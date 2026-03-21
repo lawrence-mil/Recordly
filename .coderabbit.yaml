@@ -54,7 +54,7 @@ checks:
     required_sections:
       - "Motivation"
       - "Type of Change"
-      - "Testing"
+      - "Testing Guide"
       - "Checklist"
 
   docstring_coverage:
